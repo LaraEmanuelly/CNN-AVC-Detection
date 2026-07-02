@@ -79,5 +79,4 @@ Métricas do conjunto de testes:
 ## Como executar
 ```bash
 pip install datasets matplotlib seaborn scikit-learn
-jupyter notebook CNN_AVC.ipynb
 ```
