@@ -78,5 +78,7 @@ Métricas do conjunto de testes:
 
 ## Como executar
 ```bash
+Ativar GPU: Ambiente de execução > Alterar tipo de ambiente de execução > selecione GPU T4 > Salvar
 pip install datasets matplotlib seaborn scikit-learn
+executar arquivo CNN_AVC.ipynb
 ```
